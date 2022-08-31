@@ -1,9 +1,2 @@
-#!/bin/bash 
-
-\n
-
-# My first script
-
-
-
+#!/bin/bash
 echo $PWD
